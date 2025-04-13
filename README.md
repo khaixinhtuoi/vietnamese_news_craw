@@ -21,3 +21,8 @@ cách hoạt động:
 9.  tiền xử lý lần 2:
          +đọc file csv đã lưu, xóa tất cả các chỉ số hàng có giá trị trống
          +xóa bỏ tất cả các chỉ số hàng nếu nó không đạt đủ tiêu chuẩn(tránh bị ngắn quá hoặc sai nội dung)
+
+lưu ý khi cài underthesea:
+1.  cần cài đặt rust
+2.  sử dụng phiên bản python <3.12
+3.  khi cài trong môi trường ảo sẽ gặp lỗi, tra chatbot lỗi sẽ ra cách giải quyết
